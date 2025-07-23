@@ -22,7 +22,7 @@ class MovieListViewModel @Inject constructor(
         loadPopularMovies()
     }
 
-    private fun loadPopularMovies() {
+    fun loadPopularMovies() {
         viewModelScope.launch {
             try {
                 val response = repository.fetchPopularMovies()
