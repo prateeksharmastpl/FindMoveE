@@ -7,3 +7,9 @@ FindMoveE is a sample project that displays movie details such as title, release
 - Mockito & MockK
 - MVVM
 - Retrofit
+
+# Project Structure
+
+FindMoveE/
+<img width="515" height="246" alt="image" src="https://github.com/user-attachments/assets/53cdb140-42b3-44f4-860d-221ff8652970" />
+
