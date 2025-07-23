@@ -1,5 +1,6 @@
 # FindMoveE
 FindMoveE is a sample project that displays movie details such as title, release date, ratings, and posters using TMDB API. The API will be used to fetch a list of popular, top-rated, and upcoming movies, as well as detailed information for each movie. This data will be displayed in a user-friendly interface for demonstration purposes.
 
-#Jetpack Compose has been used in this project.
-#Hilt Dependency Injection framework is used. 
+# Tools
+- Jetpack Compose has been used in this project.
+- Hilt Dependency Injection framework is used. 
